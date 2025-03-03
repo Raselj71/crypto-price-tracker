@@ -2,7 +2,7 @@ import React from "react";
 import { SidebarTrigger } from "./ui/sidebar";
 import { Separator } from "@radix-ui/react-separator";
 import SearchBar from "./SearchBar";
-import { Card, CardContent } from "./ui/card";
+
 import { Avatar, AvatarFallback, AvatarImage } from "@radix-ui/react-avatar";
 import { EllipsisVertical } from "lucide-react";
 import RefreshBtn from "./RefreshBtn";
